@@ -7,4 +7,4 @@ app.get("/", (req, res) => {
     res.send("<h1>Server is working</>")
 })
 
-module.export = app
+module.exports = app
