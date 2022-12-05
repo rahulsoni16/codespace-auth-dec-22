@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth-dec-22",
+  "version": "1.0.0",
+  "description": "Auth system designed in github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsoni16/codespace-auth-dec-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulsoni16/codespace-auth-dec-22/issues"
+  },
+  "homepage": "https://github.com/rahulsoni16/codespace-auth-dec-22#readme"
+}
